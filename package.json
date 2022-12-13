@@ -1,0 +1,11 @@
+{
+  "name": "22802-grupo4-streamingapp-backend",
+  "version": "1.0.0",
+  "description": "MERN backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grupo4",
+  "license": "ISC"
+}
